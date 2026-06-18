@@ -33,10 +33,3 @@ The goal is not only to compete but to develop strong skills in networking, clou
 | Advanced | ⏳ |
 | Competition Ready | ⏳ |
 
-## Repository Structure
-
-(I'll update this in a few.)
-
-## Dev Rogue Roadmap
-
-This repository is one pillar of my 2026–2028 journey to become a Software Engineer through public learning and real-world projects.
